@@ -190,7 +190,59 @@
         },
         {
             "Deckname": "Gyarados ex Greninja",
-            "Tiername": "Tier 2"
+            "Tiername": "Tier 2",
+            "Cards": [
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-087.webp",
+                    "Cardname": "Froakie",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-088.webp",
+                    "Cardname": "Frogadier",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-089.webp",
+                    "Cardname": "Greninja",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-017.webp",
+                    "Cardname": "Magikarp",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-018.webp",
+                    "Cardname": "Gyarados ex",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-056.webp",
+                    "Cardname": "Druddigon",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-220.webp",
+                    "Cardname": "Misty",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-068.webp",
+                    "Cardname": "Leaf",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
+                    "Cardname": "Professor's Research",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
+                    "Cardname": "Poké Ball",
+                    "Cardnumber": "x2"
+                }
+            ]
         },
         {
             "Deckname": "Mewtwo ex Gardevoir",
@@ -321,440 +373,31 @@
         },
         {
             "Deckname": "Pikachu ex Zebstrika",
-            "Tiername": "Tier 2",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-096.webp",
-                    "Cardname": "Pikachu ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-104.webp",
-                    "Cardname": "Zapdos ex",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-105.webp",
-                    "Cardname": "Blitzle",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-106.webp",
-                    "Cardname": "Zebstrika",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-027.webp",
-                    "Cardname": "Electabuzz",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-030.webp",
-                    "Cardname": "Dedenne",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-061.webp",
-                    "Cardname": "Pachirisu ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
-                    "Cardname": "Sabrina",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-147.webp",
-                    "Cardname": "Giant Cape",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 2"
         },
         {
             "Deckname": "Charizard ex Moltres",
-            "Tiername": "Tier 2",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-033.webp",
-                    "Cardname": "Charmander",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-034.webp",
-                    "Cardname": "Charmeleon",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-036.webp",
-                    "Cardname": "Charizard ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-047.webp",
-                    "Cardname": "Moltres ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
-                    "Cardname": "Sabrina",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-068.webp",
-                    "Cardname": "Leaf",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-146.webp",
-                    "Cardname": "Pokémon Communication",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-147.webp",
-                    "Cardname": "Giant Cape",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 2"
         },
         {
             "Deckname": "Celebi ex Serperior",
-            "Tiername": "Tier 2",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-219.webp",
-                    "Cardname": "Erika",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-223.webp",
-                    "Cardname": "Giovanni",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
-                    "Cardname": "Sabrina",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-068.webp",
-                    "Cardname": "Leaf",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-003.webp",
-                    "Cardname": "Celebi ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-004.webp",
-                    "Cardname": "Snivy",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-005.webp",
-                    "Cardname": "Servine",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-006.webp",
-                    "Cardname": "Serperior",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-009.webp",
-                    "Cardname": "Dhelmise",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-001.webp",
-                    "Cardname": "Potion",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 2"
         },
         {
             "Deckname": "Infernape ex Moltres ex",
-            "Tiername": "Tier 3",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-047.webp",
-                    "Cardname": "Moltres ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-027.webp",
-                    "Cardname": "Chimchar",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-028.webp",
-                    "Cardname": "Monferno",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-029.webp",
-                    "Cardname": "Infernape ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-146.webp",
-                    "Cardname": "Pokémon Communication",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-148.webp",
-                    "Cardname": "Rocky Helmet",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-154.webp",
-                    "Cardname": "Dawn",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 3"
         },
         {
             "Deckname": "Gallade ex Lucario",
-            "Tiername": "Tier 3",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
-                    "Cardname": "Sabrina",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-068.webp",
-                    "Cardname": "Ralts",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-069.webp",
-                    "Cardname": "Kirlia",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-091.webp",
-                    "Cardname": "Riolu",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-092.webp",
-                    "Cardname": "Lucario",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-095.webp",
-                    "Cardname": "Gallade ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A2-147.webp",
-                    "Cardname": "Giant Cape",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 3"
         },
         {
             "Deckname": "Aerodactyle ex Primeape",
-            "Tiername": "Tier 3",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-142.webp",
-                    "Cardname": "Primeape",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-032.webp",
-                    "Cardname": "Mew ex",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-046.webp",
-                    "Cardname": "Aerodactyl ex",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-017.webp",
-                    "Cardname": "Mankey",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-223.webp",
-                    "Cardname": "Giovanni",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
-                    "Cardname": "Sabrina",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-063.webp",
-                    "Cardname": "Old Amber",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-001.webp",
-                    "Cardname": "Potion",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
-                    "Cardname": "X Speed",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 3"
         },
         {
             "Deckname": "Golem Druddigon",
-            "Tiername": "Tier 3",
-            "Cards": [
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-147.webp",
-                    "Cardname": "Geodude",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-154.webp",
-                    "Cardname": "Hitmonlee",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-044.webp",
-                    "Cardname": "Graveler",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-045.webp",
-                    "Cardname": "Golem",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-047.webp",
-                    "Cardname": "Marshadow",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-056.webp",
-                    "Cardname": "Druddigon",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-223.webp",
-                    "Cardname": "Giovanni",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-224.webp",
-                    "Cardname": "Brock",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-068.webp",
-                    "Cardname": "Leaf",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
-                    "Cardname": "Professor's Research",
-                    "Cardnumber": "x2"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-001.webp",
-                    "Cardname": "Potion",
-                    "Cardnumber": "x1"
-                },
-                {
-                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
-                    "Cardname": "Poké Ball",
-                    "Cardnumber": "x2"
-                }
-            ]
+            "Tiername": "Tier 3"
         }
     ]
 }
