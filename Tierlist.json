@@ -34,7 +34,74 @@
         },
         {
             "Deckname": "Celebi ex Serperior",
-            "Tiername": "Tier 2"
+            "Tiername": "Tier 2",
+            "Cards": [
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-219.webp",
+                    "Cardname": "Erika",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-223.webp",
+                    "Cardname": "Giovanni",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1-225.webp",
+                    "Cardname": "Sabrina",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-068.webp",
+                    "Cardname": "Leaf",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-007.webp",
+                    "Cardname": "Professor's Research",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-003.webp",
+                    "Cardname": "Celebi ex",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-004.webp",
+                    "Cardname": "Snivy",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-005.webp",
+                    "Cardname": "Servine",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-006.webp",
+                    "Cardname": "Serperior",
+                    "Cardnumber": "x2"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/A1a-009.webp",
+                    "Cardname": "Dhelmise",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-001.webp",
+                    "Cardname": "Potion",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-002.webp",
+                    "Cardname": "X Speed",
+                    "Cardnumber": "x1"
+                },
+                {
+                    "Cardimage": "https://static.dotgg.gg/pokepocket/card/PROMO-005.webp",
+                    "Cardname": "Poké Ball",
+                    "Cardnumber": "x2"
+                }
+            ]
         },
         {
             "Deckname": "Infernape ex Moltres ex",
