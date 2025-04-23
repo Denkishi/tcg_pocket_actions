@@ -1,5 +1,9 @@
 {
-    "selection1": [
+    "cards": [
+        {
+            "name": "Pokémon Communication",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bd10169202e5d7e6885f_w420.webp"
+        },
         {
             "name": "Poké Ball",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
@@ -1921,10 +1925,6 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bd63f06a47c6afdf7b26_w420.webp"
         },
         {
-            "name": "Palkia ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799c03ef06a47c6afdf88fa_w420.webp"
-        },
-        {
             "name": "Chatot",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdad0c64508adf1e68ff_w420.webp"
         },
@@ -2883,10 +2883,6 @@
         {
             "name": "Dugtrio",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e254e_w420.webp"
-        },
-        {
-            "name": "Meltan",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2577_w420.webp"
         },
         {
             "name": "Mankey",
