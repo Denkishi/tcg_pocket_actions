@@ -109,12 +109,12 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e38dba5cc271d38f7466d1_w420.webp"
         },
         {
-            "name": "Marshadow",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611748db7f64d578b892ab_w420.webp"
-        },
-        {
             "name": "Meowscarada",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e38e14575eceb838a21041_w420.webp"
+        },
+        {
+            "name": "Marshadow",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611748db7f64d578b892ab_w420.webp"
         },
         {
             "name": "Floragato",
@@ -125,12 +125,12 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2523_w420.webp"
         },
         {
-            "name": "Druddigon",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/676119fbf9e257245fbb8cb4_w420.webp"
-        },
-        {
             "name": "Shaymin",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b296169202e5d7e650f6_w420.webp"
+        },
+        {
+            "name": "Druddigon",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/676119fbf9e257245fbb8cb4_w420.webp"
         },
         {
             "name": "Magneton",
@@ -149,16 +149,24 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255c_w420.webp"
         },
         {
-            "name": "Erika",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e259d_w420.webp"
-        },
-        {
             "name": "Charizard ex",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24e6_w420.webp"
         },
         {
+            "name": "Erika",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e259d_w420.webp"
+        },
+        {
             "name": "Charmeleon",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24e4_w420.webp"
+        },
+        {
+            "name": "Moltres ex",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24f1_w420.webp"
+        },
+        {
+            "name": "Charmander",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24e3_w420.webp"
         },
         {
             "name": "Kirlia",
@@ -169,16 +177,8 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2544_w420.webp"
         },
         {
-            "name": "Moltres ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24f1_w420.webp"
-        },
-        {
             "name": "Gallade ex",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798edfab5fbced301dcf937_w420.webp"
-        },
-        {
-            "name": "Charmander",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24e3_w420.webp"
         },
         {
             "name": "Carnivine",
@@ -197,6 +197,10 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bcb5f06a47c6afdf7763_w420.webp"
         },
         {
+            "name": "Dialga ex",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/679248b1eb08086be8540c5b_w420.webp"
+        },
+        {
             "name": "Lucario",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea526950657553dc6903_w420.webp"
         },
@@ -207,10 +211,6 @@
         {
             "name": "Sudowoodo",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c15ac3e06d5e18c00abf6f_w420.webp"
-        },
-        {
-            "name": "Dialga ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/679248b1eb08086be8540c5b_w420.webp"
         },
         {
             "name": "Skarmory",
@@ -237,6 +237,10 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
         },
         {
+            "name": "Rotom",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b7a50c64508adf1e4bfd_w420.webp"
+        },
+        {
             "name": "Sneasel",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b6de169202e5d7e66632_w420.webp"
         },
@@ -247,10 +251,6 @@
         {
             "name": "Exeggcute",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24d7_w420.webp"
-        },
-        {
-            "name": "Rotom",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b7a50c64508adf1e4bfd_w420.webp"
         },
         {
             "name": "Palkia ex",
@@ -277,12 +277,12 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
         },
         {
-            "name": "Articuno",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2515_w420.webp"
-        },
-        {
             "name": "Farfetch'd",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2588_w420.webp"
+        },
+        {
+            "name": "Articuno",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2515_w420.webp"
         },
         {
             "name": "Wiglett",
@@ -309,16 +309,20 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c15f23915a911e82a936b1_w420.webp"
         },
         {
-            "name": "Arceus",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c160be915a911e82a94454_w420.webp"
-        },
-        {
             "name": "Eevee",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2590_w420.webp"
         },
         {
             "name": "Hitmonchan",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255d_w420.webp"
+        },
+        {
+            "name": "Chatot",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611bcbf9e257245fbb9ab3_w420.webp"
+        },
+        {
+            "name": "Arceus",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c160be915a911e82a94454_w420.webp"
         },
         {
             "name": "Exeggutor",
@@ -345,24 +349,12 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2579_w420.webp"
         },
         {
-            "name": "Snorlax",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2595_w420.webp"
-        },
-        {
-            "name": "Barry",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c16140e06d5e18c00aedb8_w420.webp"
-        },
-        {
             "name": "Jigglypuff",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2583_w420.webp"
         },
         {
             "name": "Wigglytuff",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2584_w420.webp"
-        },
-        {
-            "name": "Kangaskhan",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e258d_w420.webp"
         },
         {
             "name": "Paldean Clodsire ex",
@@ -389,12 +381,20 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24f8_w420.webp"
         },
         {
+            "name": "Snorlax",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2595_w420.webp"
+        },
+        {
+            "name": "Barry",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c16140e06d5e18c00aedb8_w420.webp"
+        },
+        {
             "name": "Celestic Town Elder",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c1611ce06d5e18c00aec44_w420.webp"
         },
         {
-            "name": "Celebi ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/676110ecf9e257245fbb5ac3_w420.webp"
+            "name": "Kangaskhan",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e258d_w420.webp"
         },
         {
             "name": "Lucario ex",
@@ -421,14 +421,6 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2572_w420.webp"
         },
         {
-            "name": "Starmie ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e250e_w420.webp"
-        },
-        {
-            "name": "Staryu",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e250c_w420.webp"
-        },
-        {
             "name": "Cyclizar",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e3976179f0ebec0380cc68_w420.webp"
         },
@@ -439,6 +431,10 @@
         {
             "name": "Gible",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798eb606950657553dc6f23_w420.webp"
+        },
+        {
+            "name": "Celebi ex",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/676110ecf9e257245fbb5ac3_w420.webp"
         },
         {
             "name": "Giratina",
@@ -477,16 +473,28 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b262169202e5d7e64fd0_w420.webp"
         },
         {
-            "name": "Chatot",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611bcbf9e257245fbb9ab3_w420.webp"
-        },
-        {
             "name": "Spiritomb",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b7f4f06a47c6afdf605f_w420.webp"
         },
         {
             "name": "Gardevoir",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2546_w420.webp"
+        },
+        {
+            "name": "Electabuzz",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2527_w420.webp"
+        },
+        {
+            "name": "Volkner",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdd6169202e5d7e68c71_w420.webp"
+        },
+        {
+            "name": "Starmie ex",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e250e_w420.webp"
+        },
+        {
+            "name": "Staryu",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e250c_w420.webp"
         },
         {
             "name": "Crobat",
@@ -515,18 +523,6 @@
         {
             "name": "Koga",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a0_w420.webp"
-        },
-        {
-            "name": "Gastly",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253a_w420.webp"
-        },
-        {
-            "name": "Gengar ex",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253d_w420.webp"
-        },
-        {
-            "name": "Haunter",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253b_w420.webp"
         },
         {
             "name": "Gholdengo",
@@ -565,12 +561,8 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e3936079f0ebec0380b0e0_w420.webp"
         },
         {
-            "name": "Electabuzz",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2527_w420.webp"
-        },
-        {
-            "name": "Volkner",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdd6169202e5d7e68c71_w420.webp"
+            "name": "Electivire",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798f0c5b5fbced301dd054c_w420.webp"
         },
         {
             "name": "Blaine",
@@ -605,30 +597,6 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799c357169202e5d7e6a82f_w420.webp"
         },
         {
-            "name": "Gengar",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253c_w420.webp"
-        },
-        {
-            "name": "Regirock",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799ba9e169202e5d7e67ac6_w420.webp"
-        },
-        {
-            "name": "Rhydon",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255f_w420.webp"
-        },
-        {
-            "name": "Rhyhorn",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255e_w420.webp"
-        },
-        {
-            "name": "Rhyperior",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b979f06a47c6afdf673e_w420.webp"
-        },
-        {
-            "name": "Budding Expeditioner",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611c90db7f64d578b8b51e_w420.webp"
-        },
-        {
             "name": "Lickilicky ex",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799ba14169202e5d7e6781a_w420.webp"
         },
@@ -649,6 +617,18 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b4410c64508adf1e3c2f_w420.webp"
         },
         {
+            "name": "Gastly",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253a_w420.webp"
+        },
+        {
+            "name": "Gengar ex",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253d_w420.webp"
+        },
+        {
+            "name": "Haunter",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253b_w420.webp"
+        },
+        {
             "name": "Gligar",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b9fb0c64508adf1e57ab_w420.webp"
         },
@@ -663,10 +643,6 @@
         {
             "name": "Tinkaton ex",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67dd69872b931b02f36513e1_w420.webp"
-        },
-        {
-            "name": "Electivire",
-            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798f0c5b5fbced301dd054c_w420.webp"
         },
         {
             "name": "Piplup",
@@ -1769,8 +1745,16 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b957169202e5d7e67463_w420.webp"
         },
         {
+            "name": "Rhyperior",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b979f06a47c6afdf673e_w420.webp"
+        },
+        {
             "name": "Hitmontop",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799ba580c64508adf1e59d3_w420.webp"
+        },
+        {
+            "name": "Regirock",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799ba9e169202e5d7e67ac6_w420.webp"
         },
         {
             "name": "Wormadam",
@@ -2389,6 +2373,10 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/675d8808b69b3a0822f66f23_w420.webp"
         },
         {
+            "name": "Budding Expeditioner",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611c90db7f64d578b8b51e_w420.webp"
+        },
+        {
             "name": "Exeggutor",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67611ba6f9e257245fbb967b_w420.webp"
         },
@@ -2523,6 +2511,10 @@
         {
             "name": "Electrode",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2526_w420.webp"
+        },
+        {
+            "name": "Rhyhorn",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255e_w420.webp"
         },
         {
             "name": "Poké Ball",
@@ -2841,6 +2833,10 @@
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2539_w420.webp"
         },
         {
+            "name": "Gengar",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e253c_w420.webp"
+        },
+        {
             "name": "Mr. Mime",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2540_w420.webp"
         },
@@ -2931,6 +2927,10 @@
         {
             "name": "Marowak ex",
             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255b_w420.webp"
+        },
+        {
+            "name": "Rhydon",
+            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255f_w420.webp"
         },
         {
             "name": "Mienfoo",
