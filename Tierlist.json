@@ -446,7 +446,89 @@
                 {
                     "name": "Charizard ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Charizard%20ex?portrait=true&width=420 420w",
-                    "power": "12.5"
+                    "power": "12.5",
+                    "cards": [
+                        {
+                            "name": "Charizard ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67dd67fbe2096b41c50fa5a5_w420.webp"
+                        },
+                        {
+                            "name": "Charizard ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67dd67fbe2096b41c50fa5a5_w420.webp"
+                        },
+                        {
+                            "name": "Charmander",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e38ed6575eceb838a21501_w420.webp"
+                        },
+                        {
+                            "name": "Charmander",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e38ed6575eceb838a21501_w420.webp"
+                        },
+                        {
+                            "name": "Charmeleon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e38f15575eceb838a2169b_w420.webp"
+                        },
+                        {
+                            "name": "Turtonator",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c268c0a4ec0168e8b2c5_w420.webp"
+                        },
+                        {
+                            "name": "Turtonator",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c268c0a4ec0168e8b2c5_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        },
+                        {
+                            "name": "Kiawe",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3c4a8bc31f24c36ad742_w420.webp"
+                        },
+                        {
+                            "name": "Kiawe",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3c4a8bc31f24c36ad742_w420.webp"
+                        },
+                        {
+                            "name": "Lillie",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811d01f819c204fd6cddd25_w420.webp"
+                        },
+                        {
+                            "name": "Lillie",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811d01f819c204fd6cddd25_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Red Card",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
+                        }
+                    ]
                 }
             ]
         },
