@@ -6,8 +6,12 @@
                 {
                     "name": "Buzzwole ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Buzzwole%20ex?portrait=true&width=420 420w",
-                    "power": "48.0",
+                    "power": "51.0",
                     "cards": [
+                        {
+                            "name": "Pheromosa",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/682f264c11b021c3225af44f_w420.webp"
+                        },
                         {
                             "name": "Pheromosa",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/682f264c11b021c3225af44f_w420.webp"
@@ -33,6 +37,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/682f261811b021c3225af326_w420.webp"
                         },
                         {
+                            "name": "Repel",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
+                        },
+                        {
                             "name": "Red Card",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
                         },
@@ -43,10 +51,6 @@
                         {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Sabrina",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
                         },
                         {
                             "name": "Professor's Research",
@@ -69,14 +73,6 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fd2b26d19a35a27b44bd_w420.webp"
                         },
                         {
-                            "name": "Guzma",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cf73819c204fd6cdd872_w420.webp"
-                        },
-                        {
-                            "name": "Erika",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e259d_w420.webp"
-                        },
-                        {
                             "name": "Erika",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e259d_w420.webp"
                         },
@@ -87,13 +83,17 @@
                         {
                             "name": "Leaf Cape",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811ceaaa93125d205b4cfb9_w420.webp"
+                        },
+                        {
+                            "name": "Leaf Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811ceaaa93125d205b4cfb9_w420.webp"
                         }
                     ]
                 },
                 {
                     "name": "Guzzlord ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Guzzlord%20ex?portrait=true&width=420 420w",
-                    "power": "35.0",
+                    "power": "33.5",
                     "cards": [
                         {
                             "name": "Nihilego",
@@ -185,7 +185,7 @@
                 {
                     "name": "Silvally Rampardos",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Silvally%20Rampardos?portrait=true&width=420 420w",
-                    "power": "21.5",
+                    "power": "22.5",
                     "cards": [
                         {
                             "name": "Rampardos",
@@ -272,7 +272,7 @@
                 {
                     "name": "Charizard ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Charizard%20ex?portrait=true&width=420 420w",
-                    "power": "15.0",
+                    "power": "16.0",
                     "cards": [
                         {
                             "name": "Litten",
@@ -364,7 +364,7 @@
                 {
                     "name": "Giratina ex Darkrai ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Giratina%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
-                    "power": "14.0",
+                    "power": "13.0",
                     "cards": [
                         {
                             "name": "Giratina ex",
@@ -451,12 +451,94 @@
                 {
                     "name": "Solgaleo ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Solgaleo%20ex?portrait=true&width=420 420w",
-                    "power": "11.0"
+                    "power": "11.0",
+                    "cards": [
+                        {
+                            "name": "Morelull",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c27ec0a4ec0168e8b36f_w420.webp"
+                        },
+                        {
+                            "name": "Morelull",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c27ec0a4ec0168e8b36f_w420.webp"
+                        },
+                        {
+                            "name": "Shiinotic",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fa7d26d19a35a27b30ba_w420.webp"
+                        },
+                        {
+                            "name": "Shiinotic",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fa7d26d19a35a27b30ba_w420.webp"
+                        },
+                        {
+                            "name": "Cosmog",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cae4c0a4ec0168e8e93c_w420.webp"
+                        },
+                        {
+                            "name": "Cosmog",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cae4c0a4ec0168e8e93c_w420.webp"
+                        },
+                        {
+                            "name": "Cosmoem",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cb7ac0a4ec0168e8ed4c_w420.webp"
+                        },
+                        {
+                            "name": "Solgaleo ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3d40ee5adf8f1a257c25_w420.webp"
+                        },
+                        {
+                            "name": "Solgaleo ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3d40ee5adf8f1a257c25_w420.webp"
+                        },
+                        {
+                            "name": "Repel",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Mars",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
+                        },
+                        {
+                            "name": "Lillie",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811d01f819c204fd6cddd25_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        }
+                    ]
                 },
                 {
                     "name": "Magnezone",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Magnezone?portrait=true&width=420 420w",
-                    "power": "9.5",
+                    "power": "9.0",
                     "cards": [
                         {
                             "name": "Morelull",
@@ -543,7 +625,7 @@
                 {
                     "name": "Zeraora",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Zeraora?portrait=true&width=420 420w",
-                    "power": "9.0",
+                    "power": "8.0",
                     "cards": [
                         {
                             "name": "Zeraora",
@@ -713,16 +795,11 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "Trending",
-            "decks": [
+                },
                 {
                     "name": "Silvally",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Silvally?portrait=true&width=420 420w",
-                    "power": "4.5",
+                    "power": "5.5",
                     "cards": [
                         {
                             "name": "Giratina ex",
@@ -805,7 +882,12 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "name": "Trending",
+            "decks": [
                 {
                     "name": "Palkia ex Manaphy",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Palkia%20ex%20Manaphy?portrait=true&width=420 420w",
