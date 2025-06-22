@@ -6,7 +6,7 @@
                 {
                     "name": "Buzzwole ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Buzzwole%20ex?portrait=true&width=420 420w",
-                    "power": "51.0",
+                    "power": "52.0",
                     "cards": [
                         {
                             "name": "Pheromosa",
@@ -93,7 +93,7 @@
                 {
                     "name": "Guzzlord ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Guzzlord%20ex?portrait=true&width=420 420w",
-                    "power": "33.5",
+                    "power": "32.0",
                     "cards": [
                         {
                             "name": "Nihilego",
@@ -185,7 +185,7 @@
                 {
                     "name": "Silvally Rampardos",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Silvally%20Rampardos?portrait=true&width=420 420w",
-                    "power": "22.5",
+                    "power": "23.5",
                     "cards": [
                         {
                             "name": "Rampardos",
@@ -451,15 +451,15 @@
                 {
                     "name": "Solgaleo ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Solgaleo%20ex?portrait=true&width=420 420w",
-                    "power": "11.0",
+                    "power": "12.0",
                     "cards": [
                         {
                             "name": "Morelull",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c27ec0a4ec0168e8b36f_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/675ae68b48e857c121990340_w420.webp"
                         },
                         {
                             "name": "Morelull",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c27ec0a4ec0168e8b36f_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/675ae68b48e857c121990340_w420.webp"
                         },
                         {
                             "name": "Shiinotic",
@@ -490,10 +490,6 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3d40ee5adf8f1a257c25_w420.webp"
                         },
                         {
-                            "name": "Repel",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
-                        },
-                        {
                             "name": "Rare Candy",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
                         },
@@ -506,12 +502,12 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
                         {
-                            "name": "Sabrina",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
                         {
-                            "name": "Red",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
                         },
                         {
                             "name": "Professor's Research",
@@ -528,6 +524,10 @@
                         {
                             "name": "Lillie",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811d01f819c204fd6cddd25_w420.webp"
+                        },
+                        {
+                            "name": "Guzma",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cf73819c204fd6cdd872_w420.webp"
                         },
                         {
                             "name": "Cyrus",
