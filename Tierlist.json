@@ -5,7 +5,6 @@
             "decks": [
                 {
                     "name": "Suicune ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex?portrait=true&width=420 420w",
                     "power": "64.5",
                     "cards": [
                         {
@@ -97,7 +96,6 @@
             "decks": [
                 {
                     "name": "Giratina ex Darkrai ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Giratina%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
                     "power": "22.0",
                     "cards": [
                         {
@@ -184,7 +182,6 @@
                 },
                 {
                     "name": "Guzzlord ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Guzzlord%20ex?portrait=true&width=420 420w",
                     "power": "22.0",
                     "cards": [
                         {
@@ -276,7 +273,6 @@
             "decks": [
                 {
                     "name": "Tapu Koko ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Tapu%20Koko%20ex?portrait=true&width=420 420w",
                     "power": "14.0",
                     "cards": [
                         {
@@ -363,7 +359,6 @@
                 },
                 {
                     "name": "Silvally Rampardos",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Silvally%20Rampardos?portrait=true&width=420 420w",
                     "power": "9.5",
                     "cards": [
                         {
@@ -450,7 +445,6 @@
                 },
                 {
                     "name": "Buzzwole ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Buzzwole%20ex?portrait=true&width=420 420w",
                     "power": "8.5",
                     "cards": [
                         {
@@ -538,7 +532,89 @@
                 {
                     "name": "Flareon ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Flareon%20ex?portrait=true&width=420 420w",
-                    "power": "8.0"
+                    "power": "8.0",
+                    "cards": [
+                        {
+                            "name": "Magby",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888721dfdf6b815eb788fed_w420.webp"
+                        },
+                        {
+                            "name": "Magby",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888721dfdf6b815eb788fed_w420.webp"
+                        },
+                        {
+                            "name": "Flareon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce3611957dfb38f722127_w420.webp"
+                        },
+                        {
+                            "name": "Flareon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce3611957dfb38f722127_w420.webp"
+                        },
+                        {
+                            "name": "Flareon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24ef_w420.webp"
+                        },
+                        {
+                            "name": "Flareon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24ef_w420.webp"
+                        },
+                        {
+                            "name": "Sylveon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce73c6657857d9065f24d_w420.webp"
+                        },
+                        {
+                            "name": "Eevee ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6852c5872564319724e3118e_w420.webp"
+                        },
+                        {
+                            "name": "Eevee ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6852c5872564319724e3118e_w420.webp"
+                        },
+                        {
+                            "name": "Eevee",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68888324fdf6b815eb78d682_w420.webp"
+                        },
+                        {
+                            "name": "Eevee",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68888324fdf6b815eb78d682_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Eevee Bag",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ceab56657857d9066067d_w420.webp"
+                        },
+                        {
+                            "name": "Eevee Bag",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ceab56657857d9066067d_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Mars",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
+                        }
+                    ]
                 },
                 {
                     "name": "Dragonite ex",
