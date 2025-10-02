@@ -7900,11 +7900,2049 @@
         },
         {
             "set_name": "Shining Revelry",
-            "set_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fsets%2FLOGO_expansion_A2b_en_US.png&w=384&q=75"
+            "set_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fsets%2FLOGO_expansion_A2b_en_US.png&w=384&q=75",
+            "cards": [
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005210_00_BEEDLE_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Weedle",
+                    "id": "#1",
+                    "hp": "50 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005240_00_KAILIOS_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pinsir",
+                    "id": "#4",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005250_00_NYAHOJA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Sprigatito",
+                    "id": "#5",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005270_00_HITOKAGE_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charmander",
+                    "id": "#8",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005300_00_BOOBER_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magmar",
+                    "id": "#11",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005330_00_MENOKURAGE_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tentacool",
+                    "id": "#14",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005350_00_BUOYSEL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Buizel",
+                    "id": "#16",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005370_00_UMIDIGDA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wiglett",
+                    "id": "#18",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005420_00_BIRIRIDAMA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Voltorb",
+                    "id": "#23",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005440_00_PAMO_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pawmi",
+                    "id": "#26",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005460_00_CASEY_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Abra",
+                    "id": "#29",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005490_00_BARRIERD_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Mr. Mime",
+                    "id": "#32",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005500_00_FUWANTE_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Drifloon",
+                    "id": "#33",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005530_00_COLLECUREI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gimmighoul",
+                    "id": "#36",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005540_00_WANRIKY_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Machop",
+                    "id": "#37",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005550_00_GORIKY_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Machoke",
+                    "id": "#38",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005560_00_SAWAMULAR_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Hitmonlee",
+                    "id": "#40",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005570_00_EBIWALAR_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Hitmonchan",
+                    "id": "#41",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005570_00_RIOLU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Riolu",
+                    "id": "#42",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005600_00_ARBO_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Ekans",
+                    "id": "#45",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005620_00_PALDEAUPAH_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Paldean Wooper",
+                    "id": "#47",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005650_00_SHIRUSHREW_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Shroodle",
+                    "id": "#50",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005670_00_KANUCHAN_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tinkatink",
+                    "id": "#52",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005700_00_BURORON_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Varoom",
+                    "id": "#55",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005730_00_KORATTA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Rattata",
+                    "id": "#58",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005740_00_RATTA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Raticate",
+                    "id": "#59",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005750_00_PURIN_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Jigglypuff",
+                    "id": "#60",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005770_00_BERORINGA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lickitung",
+                    "id": "#62",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005780_00_BEROBELT_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lickilicky",
+                    "id": "#63",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005790_00_BEADARUex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bidoof",
+                    "id": "#64",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005800_00_MIMIROL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Buneary",
+                    "id": "#66",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005810_00_MIMILOP_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lopunny",
+                    "id": "#67",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005220_00_COCOON_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Kakuna",
+                    "id": "#2",
+                    "hp": "80 HP",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005250_00_NYAROTE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Floragato",
+                    "id": "#6",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005280_00_LIZARDO_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charmeleon",
+                    "id": "#9",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005320_00_PALDEAKENTAUROS_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Paldean Tauros",
+                    "id": "#13",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005340_00_DOKUKURAGE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tentacruel",
+                    "id": "#15",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005360_00_FLOAZEL_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Floatzel",
+                    "id": "#17",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005400_00_SYARITATSU_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tatsugiri",
+                    "id": "#21",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005430_00_MARUMINE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Electrode",
+                    "id": "#24",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005430_00_PACHIRISU_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pachirisu",
+                    "id": "#25",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005450_00_PAMOT_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pawmo",
+                    "id": "#27",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005470_00_YUNGERER_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Kadabra",
+                    "id": "#30",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005510_00_FUWARIDE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Drifblim",
+                    "id": "#34",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005590_00_KARAMINGO_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Flamigo",
+                    "id": "#44",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005610_00_ARBOK_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Arbok",
+                    "id": "#46",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005640_00_MIKARUGE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Spiritomb",
+                    "id": "#49",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005680_00_NAKANUCHAN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tinkatuff",
+                    "id": "#53",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005710_00_BUROROROOM_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Revavroom",
+                    "id": "#56",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005820_00_MOTOTOKAGE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Cyclizar",
+                    "id": "#68",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_10_000420_00_NANJYAMO_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Iono",
+                    "id": "#69",
+                    "stage": "-",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_10_000430_00_POKEMONCENTERNOONEESAN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pokémon Center Lady",
+                    "id": "#70",
+                    "stage": "-",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_10_000440_00_RED_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Red",
+                    "id": "#71",
+                    "stage": "-",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_10_000450_00_ROCKETDANNOSHITAPPA_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Team Rocket Grunt",
+                    "id": "#72",
+                    "stage": "-",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005260_00_MASQUERNYA_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Meowscarada",
+                    "id": "#7",
+                    "hp": "140 HP",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005310_00_BOOBURN_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magmortar",
+                    "id": "#12",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005390_00_HEYRUSHER_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Dondozo",
+                    "id": "#20",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005450_00_PARMOT_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pawmot",
+                    "id": "#28",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005480_00_FOODIN_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Alakazam",
+                    "id": "#31",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005550_00_KAIRIKY_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Machamp",
+                    "id": "#39",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005660_00_TAGGINGRU_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Grafaiai",
+                    "id": "#51",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005720_00_SURFUGO_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gholdengo",
+                    "id": "#57",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005760_00_PUKURIN_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wigglytuff",
+                    "id": "#61",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005230_00_SPEARex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Beedrill ex",
+                    "id": "#3",
+                    "hp": "170 HP",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005290_00_LIZARDONex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charizard ex",
+                    "id": "#10",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005380_00_UMITRIOex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wugtrio ex",
+                    "id": "#19",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005410_00_PIKACHUex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pikachu ex",
+                    "id": "#22",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005520_00_GIRATINAex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Giratina ex",
+                    "id": "#35",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005580_00_LUCARIOex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lucario ex",
+                    "id": "#43",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005630_00_PALDEADOOHex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Paldean Clodsire ex",
+                    "id": "#48",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005690_00_DEKANUCHANex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tinkaton ex",
+                    "id": "#54",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_10_005790_00_BIPPA_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bibarel ex",
+                    "id": "#65",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005260_00_MASQUERNYA_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Meowscarada",
+                    "id": "#73",
+                    "hp": "140 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005350_00_BUOYSEL_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Buizel",
+                    "id": "#74",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005400_00_SYARITATSU_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tatsugiri",
+                    "id": "#75",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005660_00_TAGGINGRU_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Grafaiai",
+                    "id": "#76",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005720_00_SURFUGO_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gholdengo",
+                    "id": "#77",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005760_00_PUKURIN_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wigglytuff",
+                    "id": "#78",
+                    "hp": "100 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005230_00_SPEARex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Beedrill ex",
+                    "id": "#79",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005290_00_LIZARDONex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charizard ex",
+                    "id": "#80",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005380_00_UMITRIOex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wugtrio ex",
+                    "id": "#81",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005410_00_PIKACHUex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pikachu ex",
+                    "id": "#82",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005520_00_GIRATINAex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Giratina ex",
+                    "id": "#83",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005580_00_LUCARIOex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lucario ex",
+                    "id": "#84",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005630_00_PALDEADOOHex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Paldean Clodsire ex",
+                    "id": "#85",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tinkaton ex",
+                    "id": "#86",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005790_00_BEADARUex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bibarel ex",
+                    "id": "#87",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_20_000420_00_NANJYAMO_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Iono",
+                    "id": "#88",
+                    "stage": "-",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_20_000430_00_POKEMONCENTERNOONEESAN_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pokémon Center Lady",
+                    "id": "#89",
+                    "stage": "-",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_20_000440_00_RED_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Red",
+                    "id": "#90",
+                    "stage": "-",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcTR_20_000450_00_ROCKETDANNOSHITAPPA_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Team Rocket Grunt",
+                    "id": "#91",
+                    "stage": "-",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005410_01_PIKACHUex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pikachu ex",
+                    "id": "#92",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005630_01_PALDEADOOHex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Paldean Clodsire ex",
+                    "id": "#93",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005690_00_DEKANUCHANex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tinkaton ex",
+                    "id": "#94",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005790_01_BEADARUex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bibarel ex",
+                    "id": "#95",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005520_01_GIRATINAex_IM_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Giratina ex",
+                    "id": "#96",
+                    "hp": "150 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005210_00_BEEDLE_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Weedle",
+                    "id": "#97",
+                    "hp": "50 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005220_00_COCOON_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Kakuna",
+                    "id": "#98",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005270_00_HITOKAGE_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charmander",
+                    "id": "#99",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005280_00_LIZARDO_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charmeleon",
+                    "id": "#100",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005370_00_UMIDIGDA_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wiglett",
+                    "id": "#101",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005390_00_HEYRUSHER_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Dondozo",
+                    "id": "#102",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005060_00_PACHIRISU_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pachirisu",
+                    "id": "#103",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005070_00_RIOLU_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Riolu",
+                    "id": "#104",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005700_00_BURORON_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Varoom",
+                    "id": "#105",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005710_00_BUROROROOM_S_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Revavroom",
+                    "id": "#106",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005230_01_SPEARex_SSR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Beedrill ex",
+                    "id": "#107",
+                    "hp": "170 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005290_01_LIZARDONex_SSR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Charizard ex",
+                    "id": "#108",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005380_01_UMITRIOex_SSR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Wugtrio ex",
+                    "id": "#109",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2b%2Fwebp%2FcPK_20_005580_01_LUCARIOex_SSR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Lucario ex",
+                    "id": "#110",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "crown",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fshiny1.png&w=32&q=75"
+                }
+            ]
         },
         {
             "set_name": "Triumphant Light",
-            "set_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fsets%2FLOGO_expansion_A2a_en_US.png&w=384&q=75"
+            "set_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fsets%2FLOGO_expansion_A2a_en_US.png&w=384&q=75",
+            "cards": [
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004260_00_MINOMUCCHI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Burmy",
+                    "id": "#2",
+                    "hp": "50 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004280_00_MITSUHONEY_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Combee",
+                    "id": "#4",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004300_00_CHERINBO_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Cherubi",
+                    "id": "#6",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004350_00_DELVIL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Houndour",
+                    "id": "#11",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004380_00_MARIL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Marill",
+                    "id": "#14",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004390_00_MARILLI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Azumarill",
+                    "id": "#15",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004400_00_DOJOACH_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Barboach",
+                    "id": "#16",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004420_00_YUKIWARASHI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Snorunt",
+                    "id": "#18",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004440_00_YUKIKABURI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Snover",
+                    "id": "#20",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004490_00_PIKACHU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pikachu",
+                    "id": "#25",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004510_00_RAKURAI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Electrike",
+                    "id": "#27",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004530_00_PIPPI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Clefairy",
+                    "id": "#29",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004550_00_GHOS_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gastly",
+                    "id": "#31",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004560_00_GHOST_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Haunter",
+                    "id": "#32",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004610_00_GOMAZOU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Phanpy",
+                    "id": "#37",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004630_00_YOGIRAS_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Larvitar",
+                    "id": "#39",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004660_00_NOSEPASS_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Nosepass",
+                    "id": "#42",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004670_00_ASANAN_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Meditite",
+                    "id": "#43",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004690_00_FUKAMARU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gible",
+                    "id": "#45",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004700_00_GABITE_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gabite",
+                    "id": "#46",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004720_00_ZUBAT_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Zubat",
+                    "id": "#48",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004730_00_GOLBAT_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Golbat",
+                    "id": "#49",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004750_00_GUREGGRU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Croagunk",
+                    "id": "#51",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004770_00_COIL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magnemite",
+                    "id": "#53",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004780_00_RARECOIL_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magneton",
+                    "id": "#54",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004800_00_KUCHEAT_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Mawile",
+                    "id": "#56",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004820_00_DOHMIRROR_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bronzor",
+                    "id": "#58",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004860_00_EIEVUI_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Eevee",
+                    "id": "#62",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004880_00_HOHO_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Hoothoot",
+                    "id": "#64",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004900_00_MUKKURU_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Starly",
+                    "id": "#66",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004910_00_MUKUBIRD_C_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Staravia",
+                    "id": "#67",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004250_00_HERACROS_U_M_M_en_US.webp&w=128&q=75",
+                    "name": "Heracross",
+                    "id": "#1",
+                    "hp": "100 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004270_00_GAMALE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Mothim",
+                    "id": "#3",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004290_00_BEEQUEN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Vespiquen",
+                    "id": "#5",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004310_00_CHERRIM_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Cherrim",
+                    "id": "#7",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004320_00_CHERRIM_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Cherrim",
+                    "id": "#8",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004360_00_HELLGAR_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Houndoom",
+                    "id": "#12",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004410_00_NAMAZUN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Whiscash",
+                    "id": "#17",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004430_00_YUKIMENOKO_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Froslass",
+                    "id": "#19",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004480_00_PHIONE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Phione",
+                    "id": "#24",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004520_00_LIVOLT_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Manectric",
+                    "id": "#28",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004540_00_PIXY_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Clefable",
+                    "id": "#30",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004570_00_GANGAR_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Gengar",
+                    "id": "#33",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004580_00_UNKNOWN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Unown",
+                    "id": "#34",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004600_00_USOKKIE_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Sudowoodo",
+                    "id": "#36",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004620_00_DONFAN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Donphan",
+                    "id": "#38",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004640_00_SANAGIRAS_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Pupitar",
+                    "id": "#40",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004680_00_CHAREM_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Medicham",
+                    "id": "#44",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004760_00_DOKUROG_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Toxicroak",
+                    "id": "#52",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004830_00_DOHTAKUN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Bronzong",
+                    "id": "#59",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004870_00_KABIGON_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Snorlax",
+                    "id": "#63",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004890_00_YORUNOZUKU_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Noctowl",
+                    "id": "#65",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004920_00_MUKUHAWK_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Staraptor",
+                    "id": "#68",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_10_000380_00_KAI_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Irida",
+                    "id": "#72",
+                    "stage": "Basic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_10_000390_00_KANNAGITOWNNOTYOUROU_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Celestic Town Elder",
+                    "id": "#73",
+                    "stage": "Basic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_10_000400_00_JUN_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Barry",
+                    "id": "#74",
+                    "stage": "Basic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_10_000410_00_SEKI_U_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Adaman",
+                    "id": "#75",
+                    "stage": "Basic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004330_00_MUSKIPPA_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Carnivine",
+                    "id": "#9",
+                    "hp": "80 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004370_00_HEATRAN_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Heatran",
+                    "id": "#13",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004450_00_YUKINOOH_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Abomasnow",
+                    "id": "#21",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004470_00_ORIGINPALKIA_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Origin Forme Palkia",
+                    "id": "#23",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004500_00_RAICHU_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Raichu",
+                    "id": "#26",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-lightning.png&w=48&q=75",
+                    "type": "lightning",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004590_00_ROTOM_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Rotom",
+                    "id": "#35",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004650_00_BANGIRAS_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Tyranitar",
+                    "id": "#41",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004740_00_CROBAT_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Crobat",
+                    "id": "#50",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-darkness.png&w=48&q=75",
+                    "type": "darkness",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004790_00_JIBACOIL_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magnezone",
+                    "id": "#55",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004840_00_ORIGINDIALGA_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Origin Forme Dialga",
+                    "id": "#60",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004850_00_GIRATINA_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Giratina",
+                    "id": "#61",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-dragon.png&w=48&q=75",
+                    "type": "dragon",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004930_00_SHAYMIN_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Shaymin",
+                    "id": "#69",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004940_00_ARCEUS_R_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Arceus",
+                    "id": "#70",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004340_00_LEAFIAex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Leafeon ex",
+                    "id": "#10",
+                    "hp": "140 HP",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004460_00_GLACIAex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Glaceon ex",
+                    "id": "#22",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004710_00_GABURIASex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Garchomp ex",
+                    "id": "#47",
+                    "stage": "Stage 2",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004810_00_DAINOSEex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Probopass ex",
+                    "id": "#57",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_10_004950_00_ARCEUSex_RR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Arceus ex",
+                    "id": "#71",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Diamond",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_01.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004360_00_HELLGAR_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Houndoom",
+                    "id": "#76",
+                    "hp": "100 HP",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fire.png&w=48&q=75",
+                    "type": "fire",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004380_00_MARIL_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Marill",
+                    "id": "#77",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004580_00_UNKNOWN_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Unown",
+                    "id": "#78",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-psychic.png&w=48&q=75",
+                    "type": "psychic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004600_00_USOKKIE_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Sudowoodo",
+                    "id": "#79",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004770_00_COIL_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Magnemite",
+                    "id": "#80",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004930_00_SHAYMIN_AR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Shaymin",
+                    "id": "#81",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004340_00_LEAFIAex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Leafeon ex",
+                    "id": "#82",
+                    "hp": "140 HP",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004460_00_GLACIAex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Glaceon ex",
+                    "id": "#83",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004710_00_GABURIASex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Garchomp ex",
+                    "id": "#84",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004810_00_DAINOSEex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Probopass ex",
+                    "id": "#85",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004950_00_ARCEUSex_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Arceus ex",
+                    "id": "#86",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_20_000380_00_KAI_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Irida",
+                    "id": "#87",
+                    "stage": "Basic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_20_000390_00_KANNAGITOWNNOTYOUROU_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Celestic Town Elder",
+                    "id": "#88",
+                    "stage": "Basic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_20_000400_00_JUN_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Barry",
+                    "id": "#89",
+                    "stage": "Basic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcTR_20_000410_00_SEKI_SR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Adaman",
+                    "id": "#90",
+                    "stage": "Basic",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004340_01_LEAFIAex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Leafeon ex",
+                    "id": "#91",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-grass.png&w=48&q=75",
+                    "type": "grass",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004460_01_GLACIAex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Glaceon ex",
+                    "id": "#92",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-water.png&w=48&q=75",
+                    "type": "water",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004710_01_GABURIASex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Garchomp ex",
+                    "id": "#93",
+                    "stage": "Stage 1",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-fighting.png&w=48&q=75",
+                    "type": "fighting",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004810_01_DAINOSEex_SAR_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Probopass ex",
+                    "id": "#94",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-metal.png&w=48&q=75",
+                    "type": "metal",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                },
+                {
+                    "image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Fcards%2Fa2a%2Fwebp%2FcPK_20_004950_01_ARCEUSex_IM_M_en_US_UT.webp&w=128&q=75",
+                    "name": "Arceus ex",
+                    "id": "#95",
+                    "hp": "140 HP",
+                    "stage": "Basic",
+                    "type_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Feng-colorless.png&w=48&q=75",
+                    "type": "colorless",
+                    "rarity": "Star",
+                    "rarity_image": "https://pocket.pokemongohub.net/_next/image?url=%2Ftcg-pocket%2Ficons%2Fcmn_icn_rarity_02.png&w=32&q=75"
+                }
+            ]
         },
         {
             "set_name": "Space-Time Smackdown",
