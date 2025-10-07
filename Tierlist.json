@@ -5,6 +5,7 @@
             "decks": [
                 {
                     "name": "Suicune ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex?portrait=true&width=420 420w",
                     "power": "61.5",
                     "cards": [
                         {
@@ -91,6 +92,7 @@
                 },
                 {
                     "name": "Giratina ex Darkrai ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Giratina%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
                     "power": "40.5",
                     "cards": [
                         {
@@ -182,6 +184,7 @@
             "decks": [
                 {
                     "name": "Flareon ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Flareon%20ex?portrait=true&width=420 420w",
                     "power": "19.0",
                     "cards": [
                         {
@@ -273,6 +276,7 @@
             "decks": [
                 {
                     "name": "Guzzlord ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Guzzlord%20ex?portrait=true&width=420 420w",
                     "power": "11.0",
                     "cards": [
                         {
@@ -359,6 +363,7 @@
                 },
                 {
                     "name": "Tapu Koko ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Tapu%20Koko%20ex?portrait=true&width=420 420w",
                     "power": "7.0",
                     "cards": [
                         {
@@ -445,6 +450,7 @@
                 },
                 {
                     "name": "Zeraora",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Zeraora?portrait=true&width=420 420w",
                     "power": "7.0",
                     "cards": [
                         {
@@ -624,7 +630,89 @@
                 {
                     "name": "Darkrai ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Darkrai%20ex?portrait=true&width=420 420w",
-                    "power": "4.0"
+                    "power": "4.0",
+                    "cards": [
+                        {
+                            "name": "Magby",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888721dfdf6b815eb788fed_w420.webp"
+                        },
+                        {
+                            "name": "Mantyke",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a86ecd06f30780343938b9_w420.webp"
+                        },
+                        {
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
+                        },
+                        {
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
+                        },
+                        {
+                            "name": "Darkrai ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b936f06a47c6afdf6601_w420.webp"
+                        },
+                        {
+                            "name": "Darkrai ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b936f06a47c6afdf6601_w420.webp"
+                        },
+                        {
+                            "name": "Komala",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cdf3a93125d205b4cbb1_w420.webp"
+                        },
+                        {
+                            "name": "Arceus ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c0591452e93386721e093b_w420.webp"
+                        },
+                        {
+                            "name": "Arceus ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c0591452e93386721e093b_w420.webp"
+                        },
+                        {
+                            "name": "Repel",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Leaf",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/675ae88248e857c1219910f6_w420.webp"
+                        },
+                        {
+                            "name": "Leaf",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/675ae88248e857c1219910f6_w420.webp"
+                        },
+                        {
+                            "name": "Giovanni",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a1_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        }
+                    ]
                 },
                 {
                     "name": "Pikachu ex",
