@@ -33,6 +33,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2519_w420.webp"
                         },
                         {
+                            "name": "Oricorio",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c4ebc0a4ec0168e8c1d1_w420.webp"
+                        },
+                        {
                             "name": "Giratina ex",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67dd6974e2096b41c50faf01_w420.webp"
                         },
@@ -79,10 +83,6 @@
                         {
                             "name": "Cyrus",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
-                        },
-                        {
-                            "name": "Inflatable Boat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68aff74d4544bfaebafa0e14_w420.webp"
                         },
                         {
                             "name": "Giant Cape",
@@ -121,6 +121,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
                         },
                         {
+                            "name": "Repel",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
+                        },
+                        {
                             "name": "Red Card",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
                         },
@@ -135,6 +139,10 @@
                         {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
                         },
                         {
                             "name": "Red",
@@ -157,10 +165,6 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
                         },
                         {
-                            "name": "Leaf",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/675ae88248e857c1219910f6_w420.webp"
-                        },
-                        {
                             "name": "Guzma",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811cf73819c204fd6cdd872_w420.webp"
                         },
@@ -175,10 +179,6 @@
                         {
                             "name": "Rocky Helmet",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
-                        },
-                        {
-                            "name": "Giant Cape",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
                         }
                     ]
                 },
@@ -275,12 +275,8 @@
                     "power": "17.5",
                     "cards": [
                         {
-                            "name": "Magby",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888721dfdf6b815eb788fed_w420.webp"
-                        },
-                        {
-                            "name": "Magby",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888721dfdf6b815eb788fed_w420.webp"
+                            "name": "Leafeon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c05ca052e93386721e21e0_w420.webp"
                         },
                         {
                             "name": "Flareon ex",
@@ -291,12 +287,16 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce3611957dfb38f722127_w420.webp"
                         },
                         {
-                            "name": "Flareon",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24ef_w420.webp"
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
                         },
                         {
-                            "name": "Flareon",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24ef_w420.webp"
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
+                        },
+                        {
+                            "name": "Jolteon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2528_w420.webp"
                         },
                         {
                             "name": "Sylveon ex",
