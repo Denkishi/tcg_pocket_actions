@@ -5,6 +5,7 @@
             "decks": [
                 {
                     "name": "Suicune ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex?portrait=true&width=420 420w",
                     "power": "74.0",
                     "cards": [
                         {
@@ -96,6 +97,7 @@
             "decks": [
                 {
                     "name": "Giratina ex Darkrai ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Giratina%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
                     "power": "25.5",
                     "cards": [
                         {
@@ -182,6 +184,7 @@
                 },
                 {
                     "name": "Guzzlord ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Guzzlord%20ex?portrait=true&width=420 420w",
                     "power": "19.5",
                     "cards": [
                         {
@@ -268,10 +271,94 @@
                 },
                 {
                     "name": "Flareon ex",
-                    "power": "16.0"
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Flareon%20ex?portrait=true&width=420 420w",
+                    "power": "16.0",
+                    "cards": [
+                        {
+                            "name": "Flareon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce3611957dfb38f722127_w420.webp"
+                        },
+                        {
+                            "name": "Flareon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce3611957dfb38f722127_w420.webp"
+                        },
+                        {
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
+                        },
+                        {
+                            "name": "Pichu",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cbe5ba3a87b17e96a5_w420.webp"
+                        },
+                        {
+                            "name": "Jolteon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2528_w420.webp"
+                        },
+                        {
+                            "name": "Jolteon",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2528_w420.webp"
+                        },
+                        {
+                            "name": "Sylveon ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ce73c6657857d9065f24d_w420.webp"
+                        },
+                        {
+                            "name": "Eevee ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6852c5872564319724e3118e_w420.webp"
+                        },
+                        {
+                            "name": "Eevee ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6852c5872564319724e3118e_w420.webp"
+                        },
+                        {
+                            "name": "Eevee",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68888324fdf6b815eb78d682_w420.webp"
+                        },
+                        {
+                            "name": "Eevee",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68888324fdf6b815eb78d682_w420.webp"
+                        },
+                        {
+                            "name": "Repel",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6837fdf626d19a35a27b4b8b_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Eevee Bag",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ceab56657857d9066067d_w420.webp"
+                        },
+                        {
+                            "name": "Eevee Bag",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/685ceab56657857d9066067d_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                        },
+                        {
+                            "name": "Red",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        }
+                    ]
                 },
                 {
                     "name": "Zeraora",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Zeraora?portrait=true&width=420 420w",
                     "power": "15.5",
                     "cards": [
                         {
@@ -363,6 +450,7 @@
             "decks": [
                 {
                     "name": "Espeon ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Espeon%20ex?portrait=true&width=420 420w",
                     "power": "6.5",
                     "cards": [
                         {
