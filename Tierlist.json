@@ -6,7 +6,7 @@
                 {
                     "name": "Suicune ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex?portrait=true&width=420 420w",
-                    "power": "53.0",
+                    "power": "55.0",
                     "cards": [
                         {
                             "name": "Suicune ex",
@@ -21,8 +21,8 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8580ac4efd582d0e98b_w420.webp"
                         },
                         {
-                            "name": "Greninja",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
+                            "name": "Greninja ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8580ac4efd582d0e98b_w420.webp"
                         },
                         {
                             "name": "Greninja",
@@ -30,15 +30,11 @@
                         },
                         {
                             "name": "Froakie",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2519_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8110ac4efd582d0e8ce_w420.webp"
                         },
                         {
                             "name": "Froakie",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2519_w420.webp"
-                        },
-                        {
-                            "name": "Giratina ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67dd6974e2096b41c50faf01_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8110ac4efd582d0e8ce_w420.webp"
                         },
                         {
                             "name": "Rare Candy",
@@ -63,10 +59,6 @@
                         {
                             "name": "Professor's Research",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "May",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e8742f3ea3889f1159a_w420.webp"
                         },
                         {
                             "name": "Mars",
@@ -81,8 +73,16 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
                         },
                         {
-                            "name": "Cyrus",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
                         },
                         {
                             "name": "Giant Cape",
@@ -93,7 +93,7 @@
                 {
                     "name": "Mega Altaria ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
-                    "power": "38.5",
+                    "power": "35.5",
                     "cards": [
                         {
                             "name": "Mega Altaria ex",
@@ -180,7 +180,7 @@
                 {
                     "name": "Mega Absol ex Darkrai ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
-                    "power": "31.0",
+                    "power": "31.5",
                     "cards": [
                         {
                             "name": "Pichu",
