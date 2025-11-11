@@ -6,7 +6,7 @@
                 {
                     "name": "Suicune ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex?portrait=true&width=420 420w",
-                    "power": "42.0",
+                    "power": "42.5",
                     "cards": [
                         {
                             "name": "Suicune ex",
@@ -98,23 +98,27 @@
                 {
                     "name": "Mega Altaria ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
-                    "power": "29.0",
+                    "power": "28.5",
                     "cards": [
                         {
-                            "name": "Mega Altaria ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a298cb84e07b0adc6725f5_w420.webp"
+                            "name": "Sableye",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901cc4dce2f4236a0a1ba37_w420.webp"
                         },
                         {
                             "name": "Mega Altaria ex",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a298cb84e07b0adc6725f5_w420.webp"
                         },
                         {
-                            "name": "Indeedee ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d1d842f3ea38890bef06_w420.webp"
+                            "name": "Mega Altaria ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a298cb84e07b0adc6725f5_w420.webp"
                         },
                         {
-                            "name": "Indeedee ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d1d842f3ea38890bef06_w420.webp"
+                            "name": "Jirachi",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2b6f0ac4efd582b66b0f_w420.webp"
+                        },
+                        {
+                            "name": "Jirachi",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2b6f0ac4efd582b66b0f_w420.webp"
                         },
                         {
                             "name": "Chingling",
@@ -125,16 +129,16 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901ce4ece2f4236a0a1c221_w420.webp"
                         },
                         {
-                            "name": "Zangoose",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68aff6874544bfaebafa0876_w420.webp"
-                        },
-                        {
                             "name": "Swablu",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8b242f3ea38890c061f_w420.webp"
                         },
                         {
                             "name": "Swablu",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8b242f3ea38890c061f_w420.webp"
+                        },
+                        {
+                            "name": "Red Card",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
                         },
                         {
                             "name": "Poké Ball",
@@ -147,10 +151,6 @@
                         {
                             "name": "Sabrina",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
-                        },
-                        {
-                            "name": "Red",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395dc575eceb838a24b19_w420.webp"
                         },
                         {
                             "name": "Professor's Research",
@@ -169,23 +169,23 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
                         },
                         {
-                            "name": "Lisia",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
-                        },
-                        {
                             "name": "Cyrus",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
                         },
                         {
-                            "name": "Rocky Helmet",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
                         }
                     ]
                 },
                 {
                     "name": "Mega Absol ex Darkrai ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
-                    "power": "22.5",
+                    "power": "23.5",
                     "cards": [
                         {
                             "name": "Chingling",
@@ -446,12 +446,94 @@
                 {
                     "name": "Magnezone",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Magnezone?portrait=true&width=420 420w",
-                    "power": "17.5"
+                    "power": "17.5",
+                    "cards": [
+                        {
+                            "name": "Oricorio",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c4ebc0a4ec0168e8c1d1_w420.webp"
+                        },
+                        {
+                            "name": "Oricorio",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c4ebc0a4ec0168e8c1d1_w420.webp"
+                        },
+                        {
+                            "name": "Magnezone",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b5bff06a47c6afdf5344_w420.webp"
+                        },
+                        {
+                            "name": "Magnezone",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799b5bff06a47c6afdf5344_w420.webp"
+                        },
+                        {
+                            "name": "Magneton",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2524_w420.webp"
+                        },
+                        {
+                            "name": "Magneton",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2524_w420.webp"
+                        },
+                        {
+                            "name": "Magnemite",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2523_w420.webp"
+                        },
+                        {
+                            "name": "Magnemite",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e2523_w420.webp"
+                        },
+                        {
+                            "name": "Chingling",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901ce4ece2f4236a0a1c221_w420.webp"
+                        },
+                        {
+                            "name": "Red Card",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Pokémon Center Lady",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395a2575eceb838a249c9_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        }
+                    ]
                 },
                 {
                     "name": "Decidueye ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Decidueye%20ex?portrait=true&width=420 420w",
-                    "power": "17.0",
+                    "power": "16.0",
                     "cards": [
                         {
                             "name": "Rowlet",
@@ -968,6 +1050,93 @@
                         {
                             "name": "Rocky Helmet",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
+                        },
+                        {
+                            "name": "Giant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mega Gyarados ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Gyarados%20ex?portrait=true&width=420 420w",
+                    "power": "2.0",
+                    "cards": [
+                        {
+                            "name": "Milotic",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68aff0e4e4656bc8c5b6f545_w420.webp"
+                        },
+                        {
+                            "name": "Mega Gyarados ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a298fc63c1c5019c08a49d_w420.webp"
+                        },
+                        {
+                            "name": "Mega Gyarados ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a298fc63c1c5019c08a49d_w420.webp"
+                        },
+                        {
+                            "name": "Mantyke",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a86ecd06f30780343938b9_w420.webp"
+                        },
+                        {
+                            "name": "Mantyke",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a86ecd06f30780343938b9_w420.webp"
+                        },
+                        {
+                            "name": "Magikarp",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa35a7ce2f4236a0874fcf_w420.webp"
+                        },
+                        {
+                            "name": "Magikarp",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa35a7ce2f4236a0874fcf_w420.webp"
+                        },
+                        {
+                            "name": "Feebas",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68aff4514544bfaebaf9fb92_w420.webp"
+                        },
+                        {
+                            "name": "X Speed",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67216c8619290cd899acfc25_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Mars",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
+                        },
+                        {
+                            "name": "Lisia",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
+                        },
+                        {
+                            "name": "Lisia",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
+                        },
+                        {
+                            "name": "Irida",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67c07d5a52e93386721eec30_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Heavy Helmet",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d89d0ac4efd582d122a0_w420.webp"
                         },
                         {
                             "name": "Giant Cape",
