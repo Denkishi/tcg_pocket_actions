@@ -5,7 +5,6 @@
             "decks": [
                 {
                     "name": "Suicune ex Greninja ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex%20Greninja%20ex?portrait=true&width=420 420w",
                     "power": "62.5",
                     "cards": [
                         {
@@ -92,7 +91,6 @@
                 },
                 {
                     "name": "Mega Absol ex Hydreigon",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Hydreigon?portrait=true&width=420 420w",
                     "power": "42.0",
                     "cards": [
                         {
@@ -184,7 +182,6 @@
             "decks": [
                 {
                     "name": "Magnezone",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Magnezone?portrait=true&width=420 420w",
                     "power": "22.5",
                     "cards": [
                         {
@@ -271,7 +268,6 @@
                 },
                 {
                     "name": "Mega Altaria ex Indeedee ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Indeedee%20ex?portrait=true&width=420 420w",
                     "power": "20.0",
                     "cards": [
                         {
@@ -311,6 +307,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8cd0ac4efd582d123b9_w420.webp"
                         },
                         {
+                            "name": "Red Card",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
+                        },
+                        {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
@@ -325,10 +325,6 @@
                         {
                             "name": "Professor's Research",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Mars",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
                         },
                         {
                             "name": "Lisia",
@@ -363,7 +359,6 @@
             "decks": [
                 {
                     "name": "Mega Blaziken ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
                     "power": "9.0",
                     "cards": [
                         {
@@ -450,7 +445,6 @@
                 },
                 {
                     "name": "Crobat ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Crobat%20ex?portrait=true&width=420 420w",
                     "power": "6.5",
                     "cards": [
                         {
@@ -537,7 +531,6 @@
                 },
                 {
                     "name": "Mega Absol ex Darkrai ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
                     "power": "6.0",
                     "cards": [
                         {
@@ -716,7 +709,6 @@
             "decks": [
                 {
                     "name": "Zeraora",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Zeraora?portrait=true&width=420 420w",
                     "power": "4.0",
                     "cards": [
                         {
@@ -803,7 +795,6 @@
                 },
                 {
                     "name": "Mega Altaria ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
                     "power": "2.5",
                     "cards": [
                         {
@@ -890,7 +881,6 @@
                 },
                 {
                     "name": "Decidueye ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Decidueye%20ex?portrait=true&width=420 420w",
                     "power": "2.0",
                     "cards": [
                         {
@@ -977,7 +967,6 @@
                 },
                 {
                     "name": "Jolteon ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Jolteon%20ex?portrait=true&width=420 420w",
                     "power": "2.0",
                     "cards": [
                         {
