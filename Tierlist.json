@@ -5,7 +5,6 @@
             "decks": [
                 {
                     "name": "Mega Altaria ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
                     "power": "56.5",
                     "cards": [
                         {
@@ -184,7 +183,6 @@
                 },
                 {
                     "name": "Mega Absol ex Magnezone",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Magnezone?portrait=true&width=420 420w",
                     "power": "21.5",
                     "cards": [
                         {
@@ -363,7 +361,6 @@
             "decks": [
                 {
                     "name": "Mega Lopunny ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Lopunny%20ex?portrait=true&width=420 420w",
                     "power": "13.5",
                     "cards": [
                         {
@@ -411,10 +408,6 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67216c8619290cd899acfc25_w420.webp"
                         },
                         {
-                            "name": "Red Card",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181abc08874f5ab2e16fb_w420.webp"
-                        },
-                        {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
@@ -425,6 +418,10 @@
                         {
                             "name": "Will",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/68888a13fdf6b815eb78f908_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
                         },
                         {
                             "name": "Professor's Research",
@@ -711,7 +708,6 @@
                 },
                 {
                     "name": "Mega Absol ex Darkrai ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
                     "power": "8.0",
                     "cards": [
                         {
@@ -885,7 +881,6 @@
                 },
                 {
                     "name": "Mega Blaziken ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
                     "power": "5.0",
                     "cards": [
                         {
@@ -977,7 +972,6 @@
             "decks": [
                 {
                     "name": "Decidueye ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Decidueye%20ex?portrait=true&width=420 420w",
                     "power": "2.0",
                     "cards": [
                         {
