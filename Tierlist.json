@@ -5,8 +5,33 @@
             "decks": [
                 {
                     "name": "Suicune ex Greninja ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex%20Greninja%20ex?portrait=true&width=420 420w",
                     "power": "38.0",
                     "cards": [
+                        {
+                            "name": "Suicune ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a8700806f307803439410f_w420.webp"
+                        },
+                        {
+                            "name": "Suicune ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a8700806f307803439410f_w420.webp"
+                        },
+                        {
+                            "name": "Greninja ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8580ac4efd582d0e98b_w420.webp"
+                        },
+                        {
+                            "name": "Greninja",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
+                        },
+                        {
+                            "name": "Greninja",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
+                        },
+                        {
+                            "name": "Frogadier",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251a_w420.webp"
+                        },
                         {
                             "name": "Froakie",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c8110ac4efd582d0e8ce_w420.webp"
@@ -67,6 +92,7 @@
                 },
                 {
                     "name": "Mega Absol ex Hydreigon",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Hydreigon?portrait=true&width=420 420w",
                     "power": "33.5",
                     "cards": [
                         {
@@ -158,6 +184,7 @@
             "decks": [
                 {
                     "name": "Mega Altaria ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
                     "power": "23.5",
                     "cards": [
                         {
@@ -244,6 +271,7 @@
                 },
                 {
                     "name": "Magnezone",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Magnezone?portrait=true&width=420 420w",
                     "power": "21.5",
                     "cards": [
                         {
@@ -330,6 +358,7 @@
                 },
                 {
                     "name": "Mega Altaria ex Indeedee ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Indeedee%20ex?portrait=true&width=420 420w",
                     "power": "16.0",
                     "cards": [
                         {
@@ -365,6 +394,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8b242f3ea38890c061f_w420.webp"
                         },
                         {
+                            "name": "Altaria",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8cd0ac4efd582d123b9_w420.webp"
+                        },
+                        {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
@@ -387,6 +420,10 @@
                         {
                             "name": "Mars",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
+                        },
+                        {
+                            "name": "Giovanni",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a1_w420.webp"
                         },
                         {
                             "name": "Cyrus",
@@ -413,6 +450,7 @@
             "decks": [
                 {
                     "name": "Decidueye ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Decidueye%20ex?portrait=true&width=420 420w",
                     "power": "13.5",
                     "cards": [
                         {
@@ -499,6 +537,7 @@
                 },
                 {
                     "name": "Mega Blaziken ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
                     "power": "11.0",
                     "cards": [
                         {
@@ -759,6 +798,7 @@
                 },
                 {
                     "name": "Jolteon ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Jolteon%20ex?portrait=true&width=420 420w",
                     "power": "5.0",
                     "cards": [
                         {
@@ -850,6 +890,7 @@
             "decks": [
                 {
                     "name": "Mega Charizard Y ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Charizard%20Y%20ex?portrait=true&width=420 420w",
                     "power": "4.0",
                     "cards": [
                         {
@@ -936,6 +977,7 @@
                 },
                 {
                     "name": "Mega Venusaur ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Venusaur%20ex?portrait=true&width=420 420w",
                     "power": "3.0",
                     "cards": [
                         {
