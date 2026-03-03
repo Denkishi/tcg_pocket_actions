@@ -5,7 +5,6 @@
             "decks": [
                 {
                     "name": "Suicune ex Baxcalibur",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex%20Baxcalibur?portrait=true&width=420 420w",
                     "power": "38.5",
                     "cards": [
                         {
@@ -92,7 +91,6 @@
                 },
                 {
                     "name": "Mega Altaria ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex?portrait=true&width=420 420w",
                     "power": "37.0",
                     "cards": [
                         {
@@ -179,7 +177,6 @@
                 },
                 {
                     "name": "Mega Absol ex Hydreigon",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Hydreigon?portrait=true&width=420 420w",
                     "power": "31.5",
                     "cards": [
                         {
@@ -271,7 +268,6 @@
             "decks": [
                 {
                     "name": "Bellibolt ex Magnezone",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Bellibolt%20ex%20Magnezone?portrait=true&width=420 420w",
                     "power": "18.5",
                     "cards": [
                         {
@@ -358,7 +354,6 @@
                 },
                 {
                     "name": "Bellibolt ex Zeraora",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Bellibolt%20ex%20Zeraora?portrait=true&width=420 420w",
                     "power": "18.5",
                     "cards": [
                         {
@@ -450,7 +445,6 @@
             "decks": [
                 {
                     "name": "Magnezone",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Magnezone?portrait=true&width=420 420w",
                     "power": "8.0",
                     "cards": [
                         {
@@ -982,11 +976,11 @@
                     "cards": [
                         {
                             "name": "Torchic",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901f1f2ce2f4236a0a264e6_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c04d42f3ea38890bb362_w420.webp"
                         },
                         {
                             "name": "Torchic",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901f1f2ce2f4236a0a264e6_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c04d42f3ea38890bb362_w420.webp"
                         },
                         {
                             "name": "Mega Blaziken ex",
@@ -995,18 +989,14 @@
                         {
                             "name": "Mega Blaziken ex",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a2993863c1c5019c08a59b_w420.webp"
-                        },
-                        {
-                            "name": "Heatmor",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24f2_w420.webp"
                         },
                         {
                             "name": "Heatmor",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901c2d442f3ea38890bbf34_w420.webp"
                         },
                         {
-                            "name": "Chi-Yu",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/699f9f8504f06d3219a7f091_w420.webp"
+                            "name": "Furfrou",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69424c742960239ea3948530_w420.webp"
                         },
                         {
                             "name": "Rare Candy",
@@ -1025,12 +1015,16 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
                         },
                         {
-                            "name": "Flame Patch",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8080ac4efd582d1205a_w420.webp"
+                            "name": "Lucky Ice Pop",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae58a7432157ac2bc2ce_w420.webp"
                         },
                         {
                             "name": "Flame Patch",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901d8080ac4efd582d1205a_w420.webp"
+                        },
+                        {
+                            "name": "Sabrina",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
                         },
                         {
                             "name": "Professor's Research",
@@ -1039,6 +1033,14 @@
                         {
                             "name": "Professor's Research",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Mars",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6799bdfaf06a47c6afdf7d92_w420.webp"
+                        },
+                        {
+                            "name": "Lillie",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811d01f819c204fd6cddd25_w420.webp"
                         },
                         {
                             "name": "Cyrus",
@@ -1051,14 +1053,6 @@
                         {
                             "name": "Copycat",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
-                        },
-                        {
-                            "name": "Rocky Helmet",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
-                        },
-                        {
-                            "name": "Protective Poncho",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae721b91362c39f91092_w420.webp"
                         }
                     ]
                 },
