@@ -715,12 +715,24 @@
                     "power": "10.5",
                     "cards": [
                         {
+                            "name": "Rowlet",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3ccc8bc31f24c36ada3d_w420.webp"
+                        },
+                        {
+                            "name": "Decidueye ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811b872819c204fd6cd54a7_w420.webp"
+                        },
+                        {
                             "name": "Greninja",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
                         },
                         {
                             "name": "Greninja",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251b_w420.webp"
+                        },
+                        {
+                            "name": "Frogadier",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e251a_w420.webp"
                         },
                         {
                             "name": "Froakie",
@@ -737,6 +749,10 @@
                         {
                             "name": "Chingling",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901ce4ece2f4236a0a1c221_w420.webp"
+                        },
+                        {
+                            "name": "X Speed",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67216c8619290cd899acfc25_w420.webp"
                         },
                         {
                             "name": "Rare Candy",
