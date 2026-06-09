@@ -5,6 +5,7 @@
             "decks": [
                 {
                     "name": "Miraidon ex Magnezone",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Miraidon%20ex%20Magnezone?portrait=true&width=420 420w",
                     "power": "58.5",
                     "cards": [
                         {
@@ -91,6 +92,7 @@
                 },
                 {
                     "name": "Suicune ex Baxcalibur",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex%20Baxcalibur?portrait=true&width=420 420w",
                     "power": "50.5",
                     "cards": [
                         {
@@ -182,6 +184,7 @@
             "decks": [
                 {
                     "name": "Mega Blaziken ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
                     "power": "43.5",
                     "cards": [
                         {
@@ -268,6 +271,7 @@
                 },
                 {
                     "name": "Mega Altaria ex Espeon",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Espeon?portrait=true&width=420 420w",
                     "power": "30.5",
                     "cards": [
                         {
@@ -354,6 +358,7 @@
                 },
                 {
                     "name": "Mega Altaria ex Gourgeist",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Gourgeist?portrait=true&width=420 420w",
                     "power": "26.5",
                     "cards": [
                         {
@@ -445,6 +450,7 @@
             "decks": [
                 {
                     "name": "Mega Absol ex Hydreigon",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Hydreigon?portrait=true&width=420 420w",
                     "power": "18.5",
                     "cards": [
                         {
@@ -1223,6 +1229,10 @@
                         {
                             "name": "Copycat",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Area Zero",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a179cad01699cdc61de791d_w420.webp"
                         }
                     ]
                 },
