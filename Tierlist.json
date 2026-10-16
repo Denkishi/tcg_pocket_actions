@@ -6,7 +6,7 @@
                 {
                     "name": "Mega Altaria ex Espeon",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Espeon?portrait=true&width=420 420w",
-                    "power": "41.0",
+                    "power": "43.0",
                     "cards": [
                         {
                             "name": "Mega Altaria ex",
@@ -180,7 +180,7 @@
                 {
                     "name": "Mega Rayquaza ex Dragonair",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Rayquaza%20ex%20Dragonair?portrait=true&width=420 420w",
-                    "power": "31.5",
+                    "power": "30.5",
                     "cards": [
                         {
                             "name": "Mega Rayquaza ex",
@@ -267,7 +267,7 @@
                 {
                     "name": "Mega Lucario ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Lucario%20ex?portrait=true&width=420 420w",
-                    "power": "28.0",
+                    "power": "29.0",
                     "cards": [
                         {
                             "name": "Riolu",
@@ -294,6 +294,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255c_w420.webp"
                         },
                         {
+                            "name": "Hitmonchan",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e255d_w420.webp"
+                        },
+                        {
                             "name": "Bonsly",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/69eedd502d1e5eb123f1f136_w420.webp"
                         },
@@ -308,14 +312,6 @@
                         {
                             "name": "Poké Ball",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Lucky Ice Pop",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae58a7432157ac2bc2ce_w420.webp"
-                        },
-                        {
-                            "name": "Field Blower",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69ea21765c9e4e64b09d2db6_w420.webp"
                         },
                         {
                             "name": "Sabrina",
@@ -346,15 +342,24 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
                         },
                         {
+                            "name": "Rocky Helmet",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
+                        },
+                        {
                             "name": "Arena of Antiquity",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/69ea1ca12cd8551d3660dec4_w420.webp"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "name": "Tier 3",
+            "decks": [
                 {
                     "name": "Hoopa ex Mega Absol ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Hoopa%20ex%20Mega%20Absol%20ex?portrait=true&width=420 420w",
-                    "power": "26.0",
+                    "power": "24.5",
                     "cards": [
                         {
                             "name": "Mega Absol ex",
@@ -437,12 +442,7 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a697cd58947a0875e1a7398_w420.webp"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "Tier 3",
-            "decks": [
+                },
                 {
                     "name": "Miraidon ex Magnezone",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Miraidon%20ex%20Magnezone?portrait=true&width=420 420w",
@@ -533,7 +533,7 @@
                 {
                     "name": "Mega Blaziken ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
-                    "power": "20.5",
+                    "power": "20.0",
                     "cards": [
                         {
                             "name": "Torchic",
@@ -620,7 +620,7 @@
                 {
                     "name": "Mega Sceptile ex Butterfree",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Sceptile%20ex%20Butterfree?portrait=true&width=420 420w",
-                    "power": "18.0",
+                    "power": "17.0",
                     "cards": [
                         {
                             "name": "Treecko",
@@ -707,12 +707,8 @@
                 {
                     "name": "Dedenne ex Indeedee ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Dedenne%20ex%20Indeedee%20ex?portrait=true&width=420 420w",
-                    "power": "14.5",
+                    "power": "15.5",
                     "cards": [
-                        {
-                            "name": "Teal Mask Ogerpon ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799846ae5c4ea16466f4ce_w420.webp"
-                        },
                         {
                             "name": "Oricorio",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811c4ebc0a4ec0168e8c1d1_w420.webp"
@@ -766,6 +762,10 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
                         },
                         {
+                            "name": "Starting Plains",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979afb05e1290c7469d7ac3_w420.webp"
+                        },
+                        {
                             "name": "Small Balloon",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a3bddc44d682ff3da45dcf3_w420.webp"
                         },
@@ -778,23 +778,23 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae721b91362c39f91092_w420.webp"
                         },
                         {
-                            "name": "Protective Poncho",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae721b91362c39f91092_w420.webp"
-                        },
-                        {
                             "name": "Giant Cape",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
                         },
                         {
                             "name": "Giant Cape",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                        },
+                        {
+                            "name": "Clear Veil",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a697ce98947a0875e1a73b6_w420.webp"
                         }
                     ]
                 },
                 {
                     "name": "Mega Charizard Y ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Charizard%20Y%20ex?portrait=true&width=420 420w",
-                    "power": "14.0",
+                    "power": "15.0",
                     "cards": [
                         {
                             "name": "Mega Charizard Y ex",
@@ -826,7 +826,11 @@
                         },
                         {
                             "name": "Charizard",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e24e5_w420.webp"
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/694245a6b2e5f923c0949ad9_w420.webp"
+                        },
+                        {
+                            "name": "Team Rocket's Thieving Machine",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a86fec39df90de7c45d2913_w420.webp"
                         },
                         {
                             "name": "Poké Ball",
@@ -869,12 +873,8 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
                         },
                         {
-                            "name": "Protective Poncho",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae721b91362c39f91092_w420.webp"
-                        },
-                        {
-                            "name": "Giant Cape",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
+                            "name": "Rainbow Cave",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a697da9b2126a2a1283c291_w420.webp"
                         }
                     ]
                 },
@@ -968,182 +968,13 @@
                 {
                     "name": "Vespiquen ex Shuckle ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Vespiquen%20ex%20Shuckle%20ex?portrait=true&width=420 420w",
-                    "power": "13.0",
-                    "cards": [
-                        {
-                            "name": "Vespiquen ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a696ed9b2126a2a1283ab1e_w420.webp"
-                        },
-                        {
-                            "name": "Vespiquen ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a696ed9b2126a2a1283ab1e_w420.webp"
-                        },
-                        {
-                            "name": "Teal Mask Ogerpon ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799846ae5c4ea16466f4ce_w420.webp"
-                        },
-                        {
-                            "name": "Shuckle ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888734dfdf6b815eb789461_w420.webp"
-                        },
-                        {
-                            "name": "Shuckle ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6888734dfdf6b815eb789461_w420.webp"
-                        },
-                        {
-                            "name": "Combee",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a696ea10e468b137b58bfe8_w420.webp"
-                        },
-                        {
-                            "name": "Combee",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a696ea10e468b137b58bfe8_w420.webp"
-                        },
-                        {
-                            "name": "X Speed",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67216c8619290cd899acfc25_w420.webp"
-                        },
-                        {
-                            "name": "X Speed",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/67216c8619290cd899acfc25_w420.webp"
-                        },
-                        {
-                            "name": "Field Blower",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69ea21765c9e4e64b09d2db6_w420.webp"
-                        },
-                        {
-                            "name": "Sabrina",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/671ef0f25279bcfb3c1e25a3_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Cyrus",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
-                        },
-                        {
-                            "name": "Copycat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
-                        },
-                        {
-                            "name": "Copycat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
-                        },
-                        {
-                            "name": "Leaf Cape",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811ceaaa93125d205b4cfb9_w420.webp"
-                        },
-                        {
-                            "name": "Leaf Cape",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811ceaaa93125d205b4cfb9_w420.webp"
-                        },
-                        {
-                            "name": "Fragrant Forest",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69eee3a6da646417be7c4f75_w420.webp"
-                        },
-                        {
-                            "name": "Fragrant Forest",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69eee3a6da646417be7c4f75_w420.webp"
-                        }
-                    ]
+                    "power": "13.0"
                 }
             ]
         },
         {
             "name": "Trending",
             "decks": [
-                {
-                    "name": "Mega Gardevoir ex Mega Diancie ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Gardevoir%20ex%20Mega%20Diancie%20ex?portrait=true&width=420 420w",
-                    "power": "9.0",
-                    "cards": [
-                        {
-                            "name": "Ralts",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e955dbba2e0d2bb5f3b6_w420.webp"
-                        },
-                        {
-                            "name": "Ralts",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799e4d1b91362c39f8f7f0_w420.webp"
-                        },
-                        {
-                            "name": "Meloetta",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979a0271b91362c39f8fa47_w420.webp"
-                        },
-                        {
-                            "name": "Meloetta",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979a0271b91362c39f8fa47_w420.webp"
-                        },
-                        {
-                            "name": "Mega Gardevoir ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6972324dfd85bb01b7534149_w420.webp"
-                        },
-                        {
-                            "name": "Mega Diancie ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a3bdcb66a533ec8aabdf8c1_w420.webp"
-                        },
-                        {
-                            "name": "Gardevoir",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799ed0c46829118cbdcb6f_w420.webp"
-                        },
-                        {
-                            "name": "Comfey",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811b7e1c0a4ec0168e87f32_w420.webp"
-                        },
-                        {
-                            "name": "Rare Candy",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
-                        },
-                        {
-                            "name": "Rare Candy",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
-                        },
-                        {
-                            "name": "Poké Ball",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Poké Ball",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Lucky Ice Pop",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae58a7432157ac2bc2ce_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Diantha",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6972361140449dd0b83800fc_w420.webp"
-                        },
-                        {
-                            "name": "Cyrus",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
-                        },
-                        {
-                            "name": "Copycat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
-                        },
-                        {
-                            "name": "Peculiar Plaza",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/697231cbdd41d0c4fe524c68_w420.webp"
-                        },
-                        {
-                            "name": "Peculiar Plaza",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/697231cbdd41d0c4fe524c68_w420.webp"
-                        }
-                    ]
-                },
                 {
                     "name": "Mega Absol ex Darkrai ex",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Absol%20ex%20Darkrai%20ex?portrait=true&width=420 420w",
@@ -1228,6 +1059,93 @@
                         {
                             "name": "Lucky Egg",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/69eee321fb3ecca40cc72877_w420.webp"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mega Gardevoir ex Mega Diancie ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Gardevoir%20ex%20Mega%20Diancie%20ex?portrait=true&width=420 420w",
+                    "power": "8.0",
+                    "cards": [
+                        {
+                            "name": "Ralts",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e955dbba2e0d2bb5f3b6_w420.webp"
+                        },
+                        {
+                            "name": "Ralts",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799e4d1b91362c39f8f7f0_w420.webp"
+                        },
+                        {
+                            "name": "Meloetta",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979a0271b91362c39f8fa47_w420.webp"
+                        },
+                        {
+                            "name": "Meloetta",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979a0271b91362c39f8fa47_w420.webp"
+                        },
+                        {
+                            "name": "Mega Gardevoir ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6972324dfd85bb01b7534149_w420.webp"
+                        },
+                        {
+                            "name": "Mega Diancie ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a3bdcb66a533ec8aabdf8c1_w420.webp"
+                        },
+                        {
+                            "name": "Gardevoir",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69799ed0c46829118cbdcb6f_w420.webp"
+                        },
+                        {
+                            "name": "Comfey",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6811b7e1c0a4ec0168e87f32_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Rare Candy",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/680a3bcc8bc31f24c36ad483_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Lucky Ice Pop",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979ae58a7432157ac2bc2ce_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Diantha",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6972361140449dd0b83800fc_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Peculiar Plaza",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/697231cbdd41d0c4fe524c68_w420.webp"
+                        },
+                        {
+                            "name": "Peculiar Plaza",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/697231cbdd41d0c4fe524c68_w420.webp"
                         }
                     ]
                 },
@@ -1319,6 +1237,93 @@
                     ]
                 },
                 {
+                    "name": "Mega Manectric ex",
+                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Manectric%20ex?portrait=true&width=420 420w",
+                    "power": "6.0",
+                    "cards": [
+                        {
+                            "name": "Mega Manectric ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488da77c1fe9e7f4a53f6_w420.webp"
+                        },
+                        {
+                            "name": "Mega Manectric ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488da77c1fe9e7f4a53f6_w420.webp"
+                        },
+                        {
+                            "name": "Helioptile",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6942481c2960239ea3946cd2_w420.webp"
+                        },
+                        {
+                            "name": "Helioptile",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6942481c2960239ea3946cd2_w420.webp"
+                        },
+                        {
+                            "name": "Heliolisk",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6972c40e468b137b58c526_w420.webp"
+                        },
+                        {
+                            "name": "Heliolisk",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6972c40e468b137b58c526_w420.webp"
+                        },
+                        {
+                            "name": "Electrike",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488ab45e17c6b6bec944a_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Field Blower",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69ea21765c9e4e64b09d2db6_w420.webp"
+                        },
+                        {
+                            "name": "Clemont's Backpack",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69424b292960239ea3947e58_w420.webp"
+                        },
+                        {
+                            "name": "Clemont's Backpack",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69424b292960239ea3947e58_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                        },
+                        {
+                            "name": "Clemont",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/693ad72d9e961ca49d128492_w420.webp"
+                        },
+                        {
+                            "name": "Clemont",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/693ad72d9e961ca49d128492_w420.webp"
+                        },
+                        {
+                            "name": "Training Area",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979af5dc46829118cbde407_w420.webp"
+                        },
+                        {
+                            "name": "Elegant Cape",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a431af0483ccb1b82e7e9ed_w420.webp"
+                        }
+                    ]
+                },
+                {
                     "name": "Mega Diancie ex Carbink",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Diancie%20ex%20Carbink?portrait=true&width=420 420w",
                     "power": "6.0",
@@ -1402,93 +1407,6 @@
                         {
                             "name": "Giant Cape",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e48fb5fbced301dccc91_w420.webp"
-                        }
-                    ]
-                },
-                {
-                    "name": "Mega Manectric ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Manectric%20ex?portrait=true&width=420 420w",
-                    "power": "5.0",
-                    "cards": [
-                        {
-                            "name": "Mega Manectric ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488da77c1fe9e7f4a53f6_w420.webp"
-                        },
-                        {
-                            "name": "Mega Manectric ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488da77c1fe9e7f4a53f6_w420.webp"
-                        },
-                        {
-                            "name": "Helioptile",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6942481c2960239ea3946cd2_w420.webp"
-                        },
-                        {
-                            "name": "Helioptile",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6942481c2960239ea3946cd2_w420.webp"
-                        },
-                        {
-                            "name": "Heliolisk",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6972c40e468b137b58c526_w420.webp"
-                        },
-                        {
-                            "name": "Heliolisk",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6972c40e468b137b58c526_w420.webp"
-                        },
-                        {
-                            "name": "Electrike",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69c488ab45e17c6b6bec944a_w420.webp"
-                        },
-                        {
-                            "name": "Poké Ball",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Poké Ball",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
-                        },
-                        {
-                            "name": "Field Blower",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69ea21765c9e4e64b09d2db6_w420.webp"
-                        },
-                        {
-                            "name": "Clemont's Backpack",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69424b292960239ea3947e58_w420.webp"
-                        },
-                        {
-                            "name": "Clemont's Backpack",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/69424b292960239ea3947e58_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Professor's Research",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
-                        },
-                        {
-                            "name": "Cyrus",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
-                        },
-                        {
-                            "name": "Copycat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
-                        },
-                        {
-                            "name": "Clemont",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/693ad72d9e961ca49d128492_w420.webp"
-                        },
-                        {
-                            "name": "Clemont",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/693ad72d9e961ca49d128492_w420.webp"
-                        },
-                        {
-                            "name": "Training Area",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979af5dc46829118cbde407_w420.webp"
-                        },
-                        {
-                            "name": "Elegant Cape",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a431af0483ccb1b82e7e9ed_w420.webp"
                         }
                     ]
                 },
