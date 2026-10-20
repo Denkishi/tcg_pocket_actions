@@ -5,7 +5,6 @@
             "decks": [
                 {
                     "name": "Mega Altaria ex Espeon",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Altaria%20ex%20Espeon?portrait=true&width=420 420w",
                     "power": "44.5",
                     "cards": [
                         {
@@ -92,7 +91,6 @@
                 },
                 {
                     "name": "Suicune ex Baxcalibur",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Suicune%20ex%20Baxcalibur?portrait=true&width=420 420w",
                     "power": "36.5",
                     "cards": [
                         {
@@ -179,7 +177,6 @@
                 },
                 {
                     "name": "Mega Rayquaza ex Dragonair",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Rayquaza%20ex%20Dragonair?portrait=true&width=420 420w",
                     "power": "30.5",
                     "cards": [
                         {
@@ -266,7 +263,6 @@
                 },
                 {
                     "name": "Mega Lucario ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Lucario%20ex?portrait=true&width=420 420w",
                     "power": "28.0",
                     "cards": [
                         {
@@ -532,7 +528,6 @@
                 },
                 {
                     "name": "Mega Blaziken ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Blaziken%20ex?portrait=true&width=420 420w",
                     "power": "19.5",
                     "cards": [
                         {
@@ -619,7 +614,6 @@
                 },
                 {
                     "name": "Mega Charizard Y ex",
-                    "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Charizard%20Y%20ex?portrait=true&width=420 420w",
                     "power": "16.0",
                     "cards": [
                         {
@@ -1411,10 +1405,6 @@
                     "power": "6.0",
                     "cards": [
                         {
-                            "name": "Mimikyu ex",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/697236fc4b9806412368f17d_w420.webp"
-                        },
-                        {
                             "name": "Mega Diancie ex",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a3bdcb66a533ec8aabdf8c1_w420.webp"
                         },
@@ -1463,16 +1453,20 @@
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/67e395a2575eceb838a249c9_w420.webp"
                         },
                         {
-                            "name": "Copycat",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
+                            "name": "Lisia",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
                         },
                         {
                             "name": "Copycat",
                             "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
                         },
                         {
-                            "name": "Starting Plains",
-                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6979afb05e1290c7469d7ac3_w420.webp"
+                            "name": "Copycat",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6901da2dce2f4236a0a1ea0a_w420.webp"
                         },
                         {
                             "name": "Peculiar Plaza",
@@ -1669,7 +1663,89 @@
                 {
                     "name": "Mega Sharpedo ex Gyarados",
                     "image_url": "https://imgserv.pokemonmeta.com/v2/pkm/deck-type/Mega%20Sharpedo%20ex%20Gyarados?portrait=true&width=420 420w",
-                    "power": "4.0"
+                    "power": "4.0",
+                    "cards": [
+                        {
+                            "name": "Mega Sharpedo ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a697101ef3603fc088bb217_w420.webp"
+                        },
+                        {
+                            "name": "Mega Sharpedo ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a697101ef3603fc088bb217_w420.webp"
+                        },
+                        {
+                            "name": "Mantyke",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a86ecd06f30780343938b9_w420.webp"
+                        },
+                        {
+                            "name": "Mantyke",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68a86ecd06f30780343938b9_w420.webp"
+                        },
+                        {
+                            "name": "Magikarp",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cee5ba3a87b17e96b0_w420.webp"
+                        },
+                        {
+                            "name": "Magikarp",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/688875cee5ba3a87b17e96b0_w420.webp"
+                        },
+                        {
+                            "name": "Gyarados",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68887619e5ba3a87b17e9843_w420.webp"
+                        },
+                        {
+                            "name": "Gyarados",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68887619e5ba3a87b17e9843_w420.webp"
+                        },
+                        {
+                            "name": "Chien-Pao ex",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/699fa1c6429f5fa6e7e0486d_w420.webp"
+                        },
+                        {
+                            "name": "Carvanha",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6970cdef3603fc088bb1d6_w420.webp"
+                        },
+                        {
+                            "name": "Carvanha",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a6970cdef3603fc088bb1d6_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Poké Ball",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181a6c08874f5ab2e16f0_w420.webp"
+                        },
+                        {
+                            "name": "Wallace",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a431b7062a763cea49d68f6_w420.webp"
+                        },
+                        {
+                            "name": "Wallace",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6a431b7062a763cea49d68f6_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Professor's Research",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/672181b7c08874f5ab2e1700_w420.webp"
+                        },
+                        {
+                            "name": "Lisia",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/68fa2e9f0ac4efd582b6770a_w420.webp"
+                        },
+                        {
+                            "name": "Cyrus",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798ea0c6950657553dc675d_w420.webp"
+                        },
+                        {
+                            "name": "Rocky Helmet",
+                            "url": "https://s3.duellinksmeta.com/pkm_img/cards/6798e9cadbba2e0d2bb5f6a4_w420.webp"
+                        }
+                    ]
                 }
             ]
         }
